@@ -1,4 +1,5 @@
 # MusicMixer
+This was a class project for CS 4701 (AI practicum) in the spring of 2019. My partners were [Katherine Pioro](https://www.linkedin.com/in/katherine-pioro-8a1183127?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB8r3TkBrMNH5rIE6P-S_Ajfkc6yl5fLYps&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B3fQz1EupT320gZPojtu8Sg%3D%3D&original_referer=) and [David Huang](https://www.linkedin.com/in/david-huang-86676a129/). The original github was hosted on our Cornell enterprise accounts. I have transferred over to my personal github for public view. 
 
 ## Instructions to Run
 In order to run this project, you must first have the libraries
